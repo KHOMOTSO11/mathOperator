@@ -3,7 +3,7 @@
  */
 
 package com.mycompany.mathoperators;
-
+ 
 /**
  *
  * @author lab_services_student
@@ -12,5 +12,6 @@ public class MathOperators {
 
     public static void main(String[] args) {
         System.out.println("Hello World!");
+        System.out.println("Hello, this is my project");
     }
 }
